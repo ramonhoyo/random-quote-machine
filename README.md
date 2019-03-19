@@ -2,7 +2,7 @@ THIS IS A SIMPLE RANDOM QUOTE MACHINE, is part of freecodecamp projects
 
 https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/
 
-in order to run you need have istalled npm.
+in order to run you need have installed npm.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
