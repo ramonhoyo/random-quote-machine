@@ -1,19 +1,18 @@
-THIS IS A SIMPLE RANDOM QUOTE MACHINE, is part of freecodecamp projects 
+# Random quote machine
+    this project is part of freecodecamp        
+    https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/
 
-https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/
-
-in order to run you need have installed npm.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-In the project directory, you can run:
+    In order to run you need have installed npm.
+    In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Preview
+
+![image1](src/images/Captura.PNG)
+![image2](src/images/Captura2.PNG)
+![image3](src/images/Captura3.PNG)
